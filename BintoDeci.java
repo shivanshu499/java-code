@@ -1,5 +1,5 @@
 	import java.util.*;
-	public class BinarytoDecimal {
+	public class Main {
 		public static void main(String args[]) {
 			try (//Binary To Decimal
 			Scanner sc = new Scanner(System.in)) {
