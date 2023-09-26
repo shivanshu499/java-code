@@ -1,5 +1,5 @@
 import java.util.*;
-public class Decimal2Binary {
+public class Main{
     static void dectobin(int n)
     {
     int bin=0;
