@@ -1,5 +1,5 @@
     import java.util.*;
-    public class ChewNO {
+    public class Main {
         public static void main(String args[]) {
             try (//Chewbacca and Number
             Scanner sc = new Scanner(System.in)) {
