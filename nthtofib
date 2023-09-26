@@ -1,5 +1,5 @@
     import java.util.*;
-    public class NthFino {
+    public class Main{
         //Nth Fibonacci (Hard)
         static int fibo(int n){   
             if (n <= 1)    //Base equation
